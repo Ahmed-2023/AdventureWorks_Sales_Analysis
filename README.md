@@ -23,17 +23,17 @@ Created a **FactSaless** view by joining `Sales.SalesOrderHeader` and `Sales.Sal
 
 
 
-## Purpose:
+### Purpose:
 - Combine category hierarchy with product-level data.
 - Support product cost, price, and style analysis.
 - Simplify joins for Power BI data modeling.
 
-### 📊 Dashboards
+## 📊 Dashboards
 
   ## Sales Overview Dashboard
   <img width="1234" height="730" alt="SalesOverView" src="https://github.com/user-attachments/assets/5342509d-760e-41b7-a6a0-a25197096c2f" />
 
-  # Insights:
+  ### Insights:
   - "Total sales reached $123M, representing a 50% decrease compared to the previous year, mainly because most sales occurred in the first two quarters of the current year, with the remaining two quarters still       ahead."
   - Net profit is only $9M, with a weak profit margin (9%)
   - The highest sales were recorded in the Southwest region ($7.4M), followed by the Northwest
@@ -44,7 +44,7 @@ Created a **FactSaless** view by joining `Sales.SalesOrderHeader` and `Sales.Sal
   ## Product Performance Dashboard
   <img width="1536" height="734" alt="ProductDashboard" src="https://github.com/user-attachments/assets/757b5c3b-3040-4873-aef6-05df2de2a84a" />
 
-  # Insights:
+  ### Insights:
   - All top products belong to the Mountain & Road Bikes category.
   - The Cost is very close to the SubTotal for some products, indicating a relatively low
 profit margin.
