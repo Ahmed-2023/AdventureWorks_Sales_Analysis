@@ -10,7 +10,8 @@ Analyzing sales, products, SalesPerson and regional performance to identify tren
 
 ### 🧱 FactSales View (SQL Server)
 Created a **FactSaless** view by joining `Sales.SalesOrderHeader` and `Sales.SalesOrderDetail` tables.
-<img width="1037" height="882" alt="FactSales" src="https://github.com/user-attachments/assets/034b8ff7-26d4-479b-9db3-5cf4061713ce" />
+<img width="820" height="777" alt="FactSales" src="https://github.com/user-attachments/assets/6258994e-fae4-4300-9b28-9582a19dfb94" />
+
 
 ## Purpose:
 - To create a central fact table for sales analysis.
@@ -18,7 +19,8 @@ Created a **FactSaless** view by joining `Sales.SalesOrderHeader` and `Sales.Sal
 - Enable accurate financial and performance reporting in Power BI.
 
 ### 🧱Created a view_Products view by joining Production.ProductCategory, Production.ProductSubcategory, and Production.Product.)
-<img width="1043" height="898" alt="Product" src="https://github.com/user-attachments/assets/a63e68c8-9ff0-4bc2-b6a2-2d89db655a7d" />
+<img width="712" height="632" alt="Product" src="https://github.com/user-attachments/assets/9075abb2-cec4-4e6c-8965-00caa4147fcb" />
+
 
 
 ## Purpose:
