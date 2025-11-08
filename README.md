@@ -56,6 +56,8 @@ from purchased (ready-made) products.
 
   ## Regional & Salesperson Performance Dashboard
   <img width="1428" height="730" alt="Region and SalesPerson" src="https://github.com/user-attachments/assets/4574539f-30e1-400d-8c0d-68993e122fb1" />
+
+  
   ### Insights:
   - There is a noticeable growth in sales across America compared to other regions. However, Southeast and Northeast regions recorded lower sales this year compared to the previous year.
   - There is a noticeable variation in sales across European countries — some, like France and Germany, have very low sales.
