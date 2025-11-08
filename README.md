@@ -19,6 +19,8 @@ Created a **FactSaless** view by joining `Sales.SalesOrderHeader` and `Sales.Sal
 
 ### 🧱Created a view_Products view by joining Production.ProductCategory, Production.ProductSubcategory, and Production.Product.)
 <img width="1043" height="898" alt="Product" src="https://github.com/user-attachments/assets/a63e68c8-9ff0-4bc2-b6a2-2d89db655a7d" />
+
+
 ## Purpose:
 - Combine category hierarchy with product-level data.
 - Support product cost, price, and style analysis.
