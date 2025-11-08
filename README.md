@@ -28,17 +28,17 @@ Created a **FactSaless** view by joining `Sales.SalesOrderHeader` and `Sales.Sal
 - Support product cost, price, and style analysis.
 - Simplify joins for Power BI data modeling.
 
-  ### 📊 Dashboards
+### 📊 Dashboards
 
   ## Sales Overview Dashboard
   <img width="1234" height="730" alt="SalesOverView" src="https://github.com/user-attachments/assets/5342509d-760e-41b7-a6a0-a25197096c2f" />
 
-# Insights:
-- "Total sales reached $123M, representing a 50% decrease compared to the previous year, mainly because most sales occurred in the first two quarters of the current year, with the remaining two quarters still ahead."
-- Net profit is only $9M, with a weak profit margin (9%)
-- The highest sales were recorded in the Southwest region ($7.4M), followed by the Northwest
-region ($5.3M).
-- The average shipping delay is 7 days, which may negatively impact customer satisfaction.
+  # Insights:
+  - "Total sales reached $123M, representing a 50% decrease compared to the previous year, mainly because most sales occurred in the first two quarters of the current year, with the remaining two quarters still       ahead."
+  - Net profit is only $9M, with a weak profit margin (9%)
+  - The highest sales were recorded in the Southwest region ($7.4M), followed by the Northwest
+    region ($5.3M).
+  - The average shipping delay is 7 days, which may negatively impact customer satisfaction.
 
   
   ## Product Performance Dashboard
