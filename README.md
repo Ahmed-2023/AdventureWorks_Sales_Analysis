@@ -39,3 +39,18 @@ Created a **FactSaless** view by joining `Sales.SalesOrderHeader` and `Sales.Sal
 - The highest sales were recorded in the Southwest region ($7.4M), followed by the Northwest
 region ($5.3M).
 - The average shipping delay is 7 days, which may negatively impact customer satisfaction.
+
+  
+  ## Product Performance Dashboard
+  <img width="1536" height="734" alt="ProductDashboard" src="https://github.com/user-attachments/assets/757b5c3b-3040-4873-aef6-05df2de2a84a" />
+
+  # Insights:
+  - All top products belong to the Mountain & Road Bikes category.
+  - The Cost is very close to the SubTotal for some products, indicating a relatively low
+profit margin.
+  - Most high-quality products (High) account for 66.3% of total sales.
+  - The Unisex style accounts for 84% of total sales, indicating a high demand for gender￾neutral products.
+  - Internally manufactured products represent 96.6% of total sales, while only 3.3% come
+from purchased (ready-made) products.
+
+
