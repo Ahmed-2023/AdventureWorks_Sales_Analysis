@@ -11,3 +11,8 @@ Analyzing sales, products, SalesPerson and regional performance to identify tren
 ### 🧱 FactSales View (SQL Server)
 Created a **FactSaless** view by joining `Sales.SalesOrderHeader` and `Sales.SalesOrderDetail` tables.
 <img width="1037" height="882" alt="FactSales" src="https://github.com/user-attachments/assets/034b8ff7-26d4-479b-9db3-5cf4061713ce" />
+
+## Purpose:
+- To create a central fact table for sales analysis
+- Distribute order-level costs (tax, freight, total) proportionally to line items
+- Enable accurate financial and performance reporting in Power BI
