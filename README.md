@@ -62,7 +62,11 @@ from purchased (ready-made) products.
   - There is a noticeable growth in sales across America compared to other regions. However, Southeast and Northeast regions recorded lower sales this year compared to the previous year.
   - There is a noticeable variation in sales across European countries — some, like France and Germany, have very low sales.
   - Some sales representatives have very low sales, and for some of them, sales this year are lower than last year, such as Lynn N. Tsoflias, Garrett R. Vargas, and Pamela O. Ansman-Wolfe.
-  
+
+  ## 🛠️ Tools & Technologies:
+ - SQL Server – Data extraction and transformation (creating views).
+ - Power BI – Data modeling, DAX measures, and visualization.
+ - DAX – For KPIs, YoY, and trend analysis.
 
 
 
