@@ -13,7 +13,7 @@ Created a **FactSaless** view by joining `Sales.SalesOrderHeader` and `Sales.Sal
 <img width="820" height="777" alt="FactSales" src="https://github.com/user-attachments/assets/6258994e-fae4-4300-9b28-9582a19dfb94" />
 
 
-## Purpose:
+### Purpose:
 - To create a central fact table for sales analysis.
 - Distribute order-level costs (tax, freight, total) proportionally to line items.
 - Enable accurate financial and performance reporting in Power BI.
@@ -52,5 +52,15 @@ profit margin.
   - The Unisex style accounts for 84% of total sales, indicating a high demand for gender￾neutral products.
   - Internally manufactured products represent 96.6% of total sales, while only 3.3% come
 from purchased (ready-made) products.
+
+
+  ## Regional & Salesperson Performance Dashboard
+  <img width="1428" height="730" alt="Region and SalesPerson" src="https://github.com/user-attachments/assets/4574539f-30e1-400d-8c0d-68993e122fb1" />
+  ### Insights:
+  - There is a noticeable growth in sales across America compared to other regions. However, Southeast and Northeast regions recorded lower sales this year compared to the previous year.
+  - There is a noticeable variation in sales across European countries — some, like France and Germany, have very low sales.
+  - Some sales representatives have very low sales, and for some of them, sales this year are lower than last year, such as Lynn N. Tsoflias, Garrett R. Vargas, and Pamela O. Ansman-Wolfe.
+  
+
 
 
